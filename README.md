@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalanarain20&label=Profile%20views&color=0e75b6&style=flat" alt="arsalanarain20" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Neural Network and Data Science**
+- 🌱 I’m currently learning **Machine Learning, Deep Neural Network and Data Science & Computer Vision**
 
-- 📫 How to reach me **arslanarain500@gmail.com**
+- 📫 How to reach me **arslanlatif53@gmail.com**
 
 - ⚡ Fun fact **I think i am passionate about my work and excited for learning new things.**
 
